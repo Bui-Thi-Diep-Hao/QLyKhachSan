@@ -1,0 +1,10 @@
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.csprojAssemblyReference.cache
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.Form1.resources
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.Properties.Resources.resources
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.QlyKhachSan.resources
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.csproj.GenerateResource.cache
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\bin\Debug\QlyKhachSan.exe
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\bin\Debug\QlyKhachSan.pdb
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.exe
+C:\Users\Hao\Documents\CoSoLapTrinh2\QlyKhachSan\obj\Debug\QlyKhachSan.pdb
